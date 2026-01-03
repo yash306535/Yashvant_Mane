@@ -150,12 +150,6 @@ const yashvant = {
 
 </div>
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yash306535&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
