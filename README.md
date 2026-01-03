@@ -11,10 +11,13 @@
 ---
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/yash306535?v=4" alt="Yashvant Mane" width="200" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px #00D9FF;"/>
+  <img src="https://github.com/yash306535.png" alt="Yashvant Mane" width="200" style="border-radius: 50%;"/>
   
-  <h3>Yashvant Mane</h3>
-  <p><i>Computer Engineering Student | Backend Developer | AI/ML Enthusiast</i></p>
+  ### Yashvant Mane
+  *Computer Engineering Student | Backend Developer | AI/ML Enthusiast*
+  
+  [![GitHub Badge](https://img.shields.io/badge/GitHub-yash306535-181717?style=flat&logo=github)](https://github.com/yash306535)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yashvant-mane)
 </div>
 
 ---
