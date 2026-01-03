@@ -11,13 +11,10 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/yash306535.png" alt="Yashvant Mane" width="200" style="border-radius: 50%;"/>
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yash306535.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/yash306535.png">
-  <img alt="Yashvant Mane" src="https://github.com/yash306535.png" width="200" style="border-radius: 50%; border: 5px solid #00D9FF; padding: 5px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 32px 0 rgba(0, 217, 255, 0.37);"/>
-</picture>
+<a href="https://github.com/yash306535">
+  <img src="https://github.com/yash306535.png" alt="Yashvant Mane" width="200" height="200" style="border-radius: 50%; border: 5px solid #00D9FF;"/>
+</a>
   
   ### 💫 Yashvant Mane
   
