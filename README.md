@@ -152,7 +152,7 @@ const yashvant = {
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash306535&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF)
+[![GitHub Streak](https://github-readme-streak-stats-seven.vercel.app?user=yash306535&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -162,7 +162,7 @@ const yashvant = {
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=yash306535&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=yash306535&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&margin-h=4)
 
 </div>
 
