@@ -152,7 +152,7 @@ const yashvant = {
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=yash306535&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash306535&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF)
 
 </div>
 
@@ -162,7 +162,7 @@ const yashvant = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=yash306535&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/yash306535)
+![trophy](https://github-profile-trophy.vercel.app/?username=yash306535&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -195,10 +195,7 @@ const yashvant = {
 <div align="center">
 
 ### 💭 Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Snake
-![snake gif](https://github.com/yash306535/yash306535/blob/output/github-contribution-grid-snake.svg)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
