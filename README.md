@@ -2,13 +2,24 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8FFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+Developer;Backend+Specialist;AI%2FML+Enthusiast;DevOps+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+Developer;Backend+Specialist;AI%2FML+Enthusiast;DevOps+Explorer)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ## 👨‍💻 About Me
 
-Computer Engineering student focused on backend development, DSA, and building real-world projects. Passionate about creating scalable applications and exploring cutting-edge technologies including LLMs and AI systems.
+```typescript
+const yashvant = {
+    role: "Computer Engineering Student",
+    focus: ["Backend Development", "DSA", "System Design"],
+    currentProjects: ["Ev Application", "Forge LLM"],
+    learning: ["Advanced System Design", "AI/ML Engineering"],
+    interests: ["Backend Systems", "Automation", "DevOps"],
+    goal: "Building impactful solutions that solve real-world problems"
+};
+```
 
 - 🔭 Currently working on **Ev Application** & **Forge LLM**
 - 🌱 Learning advanced system design and AI/ML engineering
@@ -19,105 +30,95 @@ Computer Engineering student focused on backend development, DSA, and building r
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### **Languages**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Frontend Development**
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Backend Development**
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+### **Databases & Caching**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Vector Databases & AI**
+### **Vector Databases & AI Infrastructure**
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00A4EF?style=for-the-badge&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
-### **Message Queues & Background Tasks**
+### **Message Queues & Background Processing**
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ### **Testing & Automation**
-![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PyTest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### **AI & Machine Learning**
-![LLM](https://img.shields.io/badge/LLM_Training-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-6C47FF?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### **Computer Science Fundamentals**
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6B6B?style=for-the-badge&logo=thealgorithms&logoColor=white)
-![Computer Networks](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### **Version Control & Collaboration**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Webmin](https://img.shields.io/badge/Webmin-0090FF?style=for-the-badge&logo=webmin&logoColor=white)
-![Ivanti ITSM](https://img.shields.io/badge/Ivanti_ITSM-FF0000?style=for-the-badge&logo=ivanti&logoColor=white)
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📋 **Civil Contractor Management**
-Full-scale contractor management system for civil engineering projects
-- 🔧 Tech: Backend APIs, Database Management
+<div align="center">
 
-### ⚡ **Electrical Contract Management**
-Comprehensive solution for managing electrical contracts and workflows
-- 🔧 Tech: Full Stack Development
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 📋 **Civil Contractor Management** | Full-scale contractor management system for civil engineering projects | Backend APIs, Database Management |
+| ⚡ **Electrical Contract Management** | Comprehensive solution for managing electrical contracts and workflows | Full Stack Development |
+| 🌾 **AgriExpense** | Agricultural expense tracking and management platform | Web Application, Database Integration |
+| 🎓 **SmartStudent Attendance** | Intelligent attendance tracking system for educational institutions | Automation, Real-time Processing |
+| 🚗 **Ev Application** 🔥 | Electric vehicle management and tracking application | Mobile Development, IoT Integration |
+| 🤖 **Forge LLM** 🔥 | Custom LLM training and deployment platform | AI/ML, LLM Fine-tuning, RAG Systems |
+| 🔄 **Skills Swap** | Platform for skill exchange and collaborative learning | Full Stack, Real-time Communication |
+| 📦 **Inventory Management** | Robust inventory tracking and management system | CRUD Operations, Database Design |
+| 💪 **YOS Fithub** | Fitness tracking and management application | Mobile/Web App, Data Analytics |
 
-### 🌾 **AgriExpense**
-Agricultural expense tracking and management platform
-- 🔧 Tech: Web Application, Database Integration
-
-### 🎓 **SmartStudent Attendance**
-Intelligent attendance tracking system for educational institutions
-- 🔧 Tech: Automation, Real-time Processing
-
-### 🚗 **Ev Application** *(In Progress)*
-Electric vehicle management and tracking application
-- 🔧 Tech: Mobile Development, IoT Integration
-
-### 🤖 **Forge LLM** *(In Progress)*
-Custom LLM training and deployment platform
-- 🔧 Tech: AI/ML, LLM Fine-tuning, RAG Systems
-
-### 🔄 **Skills Swap**
-Platform for skill exchange and collaborative learning
-- 🔧 Tech: Full Stack, Real-time Communication
-
-### 📦 **Inventory Management**
-Robust inventory tracking and management system
-- 🔧 Tech: CRUD Operations, Database Design
-
-### 💪 **YOS Fithub**
-Fitness tracking and management application
-- 🔧 Tech: Mobile/Web App, Data Analytics
+</div>
 
 ---
 
@@ -125,20 +126,24 @@ Fitness tracking and management application
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash306535&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yash306535&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash306535&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash306535&theme=tokyonight&hide_border=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash306535&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=yash306535&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=yash306535&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yash306535&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/yash306535)
 
 </div>
 
@@ -146,7 +151,11 @@ Fitness tracking and management application
 
 ## 📈 Contribution Graph
 
-[![Yashvant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yash306535&theme=tokyo-night)](https://github.com/yash306535)
+<div align="center">
+
+[![Yashvant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yash306535&custom_title=Yashvant's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true)](https://github.com/yash306535)
+
+</div>
 
 ---
 
@@ -154,21 +163,31 @@ Fitness tracking and management application
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yashvant-mane)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/mane_yashv25855)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashvantmane98@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashvant-mane)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mane_yashv25855)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashvantmane98@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash306535)
 
 </div>
 
 ---
 
 <div align="center">
-  
+
+### 💭 Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 Contribution Snake
+![snake gif](https://github.com/yash306535/yash306535/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 💬 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=yash306535&color=00D9FF&style=for-the-badge&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/yash306535?style=for-the-badge&color=00D9FF&labelColor=0D1117)
 
-⭐️ From [Yashvant Mane](https://github.com/yash306535)
+⭐️ From [Yashvant Mane](https://github.com/yash306535) with 💙
 
 </div>
