@@ -152,7 +152,7 @@ const yashvant = {
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats-seven.vercel.app?user=yash306535&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=yash306535&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
